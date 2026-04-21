@@ -1,0 +1,6 @@
+{
+  "name": "OSINT Globe Tracker",
+  "description": "Müşterek Harekat Panosu - Tracking maritime, radar, and global events on a 3D Earth globe.",
+  "requestFramePermissions": ["geolocation", "camera"],
+  "majorCapabilities": []
+}
